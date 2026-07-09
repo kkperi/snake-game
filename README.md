@@ -3,7 +3,6 @@
 A classic Snake game built with [React](https://reactjs.org). Eat apples, grow longer, and beat your high score — all in the browser.
 
 ![React](https://img.shields.io/badge/React-17-blue?logo=react)
-![License](https://img.shields.io/github/license/MaelDrapier/react-simple-snake)
 
 ## Features
 
@@ -76,8 +75,4 @@ Your best score is stored in `localStorage` under the key `snakeHighScore`.
 | `npm run build:demo` | Build the demo for production |
 | `npm run build:lib` | Build the npm package |
 | `npm run lint` | Lint and fix source files |
-
-## License
-
-MIT — see [LICENSE](LICENSE).
 # snake-game
